@@ -1,13 +1,6 @@
-"""
-GUI application for control of Voysys 360° Camera System
-"""
+
 #12:52.0518S, 108:27.3424E
-"""
-To do:
-- Add course and distance to lines
-- Remove line end waypoints (goes off course and bearing)
-- Add naming to transit lines
-"""
+
 import sys
 import PyQt5 as Qt
 from PyQt5 import *
