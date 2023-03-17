@@ -507,9 +507,6 @@ if __name__ == '__main__':
     window.setWindowTitle('Mission Shredder')
     window.setGeometry(400, 100, 800, 500)
     missionGenerator = QWidget()
-
-
-    ########################LIVE CONTROL MODULE####################################
     layout = QGridLayout()
     abspath = os.path.abspath(__file__) 
     dname = (os.path.dirname(abspath))
