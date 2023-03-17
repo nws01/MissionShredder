@@ -1,6 +1,3 @@
-
-#12:52.0518S, 108:27.3424E
-
 import sys
 import PyQt5 as Qt
 from PyQt5 import *
